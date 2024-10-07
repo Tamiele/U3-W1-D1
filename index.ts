@@ -61,3 +61,6 @@ console.log(user1);
 
 user1.chiamata(20);
 console.log(user1.getNUmeroChiamate());
+
+user1.azzeraChiamate();
+console.log(user1);
